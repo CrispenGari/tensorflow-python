@@ -4,7 +4,7 @@ Fashion-MNIST is a dataset of Zalando's article images consisting of a training 
 Image Labels
 
 <p align="center">
- <img src="" alt="fashion"/>
+ <img src="https://github.com/CrispenGari/TensorFlow-2.4.1-Python/blob/main/keras-nn/08_Fashion_MNIST/1_evP6ekF_aPAxMzSL3LZmAg.png" alt="fashion"/>
 </p>
 
 ```python
