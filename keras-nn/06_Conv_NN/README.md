@@ -3,7 +3,7 @@
 The following animation shows a convolutional layer consisting of 9 convolutional operations involving the `5x5` input matrix. Notice that each convolutional operation works on a different `3x3` slice of the input matrix. The resulting `3x3` matrix (on the right) consists of the results of the 9 convolutional operations:
 
 <p align="center">
-   <img src="" alt="conv"/> 
+   <img src="https://github.com/CrispenGari/TensorFlow-2.4.1-Python/blob/main/keras-nn/06_Conv_NN/AnimatedConvolution.gif" alt="conv"/> 
 </p>
 
  * A neural network in which at least one layer is a convolutional layer. A typical convolutional neural network consists of some combination of the following layers:
@@ -22,8 +22,9 @@ Fully connected layers are not very efficient when it comes to working with n-di
 4. Finally, you move the kernel one pixel and repeat the process.
 
 <p align="center">
-   <img src="" alt="conv"/> 
+   <img src="https://github.com/CrispenGari/TensorFlow-2.4.1-Python/blob/main/keras-nn/06_Conv_NN/1_ciDgQEjViWLnCbmX-EeSrA.gif" alt="conv"/> 
 </p>
+
 
 Once we have the result from the previous step, we will do as we do on fully connected layers: we add the bias parameter and then apply an activation function.
 
@@ -35,8 +36,9 @@ Once we have the result from the previous step, we will do as we do on fully con
 #### The Max-Pooling layer.
 
 <p align="center">
-   <img src="" alt="conv"/> 
+   <img src="https://github.com/CrispenGari/TensorFlow-2.4.1-Python/blob/main/keras-nn/06_Conv_NN/MaxpoolSample2.png" alt="conv"/> 
 </p>
+
 
 By applying a max pooling layer we ensure that the shapes detected by the convolutional layer are maintained for the next layer. Because of this, Max Pooling layers are the most used pooling layers, as they are they usually give better results.
 
