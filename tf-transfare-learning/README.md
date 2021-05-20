@@ -4,7 +4,7 @@
 * It is a popular approach in **Deep Learning** where pre-trained models are used as the starting point on computer vision and natural language processing tasks given the vast compute and time resources required to develop neural network models on these problems and from the huge jumps in skill that they provide on related problems.
 
 <p align="center">
-    <img src=""/>
+    <img src="https://github.com/CrispenGari/TensorFlow-and-Keras-Python/blob/main/tf-transfare-learning/9315476_1592890541_transfer.jpg"/>
 </p>
     
     
